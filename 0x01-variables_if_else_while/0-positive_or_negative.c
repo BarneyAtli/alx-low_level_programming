@@ -5,7 +5,6 @@
 
 /**
  * main - Entry point
- * 
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -23,5 +22,4 @@ int main(void)
 		printf("%d is positive\n", n);
 	return (0);
 
-}
- 
+} 
